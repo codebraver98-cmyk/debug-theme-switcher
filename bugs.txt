@@ -1,0 +1,8 @@
+in html:
+    in the link it's written styles instead of style
+in css:
+    the color is written wrong in the class dark it should be white (was missing an e) 
+in java script:
+    the id was written wrong when calling
+    the id in the second line was also written in a wrond way while addressing it should be body 
+    should add for the function paranthesis while introducing it
